@@ -1,18 +1,18 @@
 import React from 'react';
 
 const images = [
-  "public/assets/gallery/1.jpg",
-  "public/assets/gallery/2.jpg",
-  "public/assets/gallery/3.jpg",
-  "public/assets/gallery/4.jpg",
-  "public/assets/gallery/5.jpg",
-  "public/assets/gallery/6.jpg",
-  "public/assets/gallery/7.jpg",
-  "public/assets/gallery/8.jpg",
-  "public/assets/gallery/9.jpg",
-  "public/assets/gallery/10.jpg",
-  "public/assets/gallery/11.jpg",
-  "public/assets/gallery/12.jpg"
+  "/assets/gallery/1.jpg",
+  "/assets/gallery/2.jpg",
+  "/assets/gallery/3.jpg",
+  "/assets/gallery/4.jpg",
+  "/assets/gallery/5.jpg",
+  "/assets/gallery/6.jpg",
+  "/assets/gallery/7.jpg",
+  "/assets/gallery/8.jpg",
+  "/assets/gallery/9.jpg",
+  "/assets/gallery/10.jpg",
+  "/assets/gallery/11.jpg",
+  "/assets/gallery/12.jpg"
 ];
 
 export const Gallery: React.FC = () => {
